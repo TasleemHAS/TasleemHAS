@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  
+  <title>Tic Tac Toe</title>
   <style>
     
     body {
@@ -127,3 +127,4 @@ function checkWinner() {
   </script>
 </body>
 </html>
+
