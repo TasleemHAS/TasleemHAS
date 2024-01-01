@@ -71,9 +71,7 @@
   </div>
 <script>
 const board = document.getElementById('board');
-    const celebration = document.getElementById('celebration');
-    let currentPlayer = 'X';
-    const squares = Array.from({ length: 9 });
+    const  squares = Array.from({ length: 9 });
 function createBoard() {
       squares.forEach((_, index) => {
         const square = document.createElement('div');
