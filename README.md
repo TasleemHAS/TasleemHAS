@@ -127,4 +127,3 @@ function checkWinner() {
   </script>
 </body>
 </html>
-
